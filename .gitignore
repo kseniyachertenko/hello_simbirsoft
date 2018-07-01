@@ -1,2 +1,7 @@
 vevn
+build
+dist
+hellosimbirsoft.egg-info
+venv
+hellosimbirsoft/__pycache__
 .python-version

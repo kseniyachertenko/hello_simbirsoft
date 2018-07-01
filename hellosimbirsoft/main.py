@@ -7,5 +7,3 @@ def printBlue(func):
 @printBlue	
 def getMessage():
 	return 'Hello, Simbirsoft!'
-
-getMessage()
